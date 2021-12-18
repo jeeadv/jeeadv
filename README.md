@@ -1,4 +1,4 @@
-- 👋 Hi, We are @jeeadv
+- 👋 Hi, We are Locus Classes
 - We provide detailed explained solutions for JEE MAIN and JEE ADVANCED questions.
 
 <!---

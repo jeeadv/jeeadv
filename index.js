@@ -4,8 +4,8 @@ $(function(){
 });
 
 var myYearData = {
-  "2021": 3,
-  "2020": 5
+  "2021": 19,
+  "2020": 20
 };
 
 var selectedYear = null;
